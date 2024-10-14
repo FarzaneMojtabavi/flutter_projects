@@ -96,7 +96,7 @@ class MyApp extends StatelessWidget {
               height: SizeConst.sm8,
             ),
             SizedBox(
-              height: 350,
+              height: 360,
               child: ListView(
                 scrollDirection: Axis.horizontal,
                 children: const [
@@ -116,13 +116,3 @@ class MyApp extends StatelessWidget {
         ));
   }
 }
-
-// SuggestedAwardsWidget(),
-//                   SuggestedAwardsWidget()
-// Text('Coin balance',
-//                       style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-//                             color: const Color(0xff082C50),
-//                           ))
-// 10:  13  /13:12 15:24  /10 1/ 9:30 1:52   2:30 3:25// 5 6:40// 7  7:45//  8 
-
-
